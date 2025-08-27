@@ -1,7 +1,7 @@
 <div>
   <img src="https://komarev.com/ghpvc/?username=devcgz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
-<h1>Hi 👋, I'm Ganagani Sai Charan</h1>
+<h1>Hi 👋, I'm Sai Charan Goud | DevCGz</h1>
 <h3>💻 Full Stack Developer | MERN & Next.js | Based in Hyderabad, India 🇮🇳</h3>
 <p>
   <a href="https://twitter.com/devcgz"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30" alt="Twitter"/></a>&nbsp;&nbsp;
