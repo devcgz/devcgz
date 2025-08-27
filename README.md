@@ -30,27 +30,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<!-- 📈 GitHub Stats -->
-<div align="center" style="padding: 20px; background-color: #ffffff; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.05);">
-
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=devcgz&theme=flat&no-frame=true&margin-w=10" alt="GitHub Trophies" style="max-width: 100%;"/>
-
-  <!-- GitHub Stats and Top Languages -->
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=devcgz&show_icons=true&theme=default&hide_title=true" alt="GitHub Stats" style="width: 55%; min-width: 300px; margin: 10px;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcgz&layout=compact&theme=default&hide_title=true" alt="Top Languages" style="width: 43%; min-width: 300px; margin: 10px;"/>
-  </div>
-  <!-- GitHub Streak -->
-  <div style="margin-top: 20px;">
-    <img src="https://streak-stats.demolab.com?user=devcgz&theme=default" alt="GitHub Streak" style="max-width: 80%;"/>
-  </div>
-</div>
-
-
----
-
 ### 🚀 Full-Stack Developer | MERN, Next.js, SEO‑Driven  
 **Clean Code • Scalable Systems • Modern UI**
 
